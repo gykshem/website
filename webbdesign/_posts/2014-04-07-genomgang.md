@@ -55,7 +55,7 @@ Det här är de fyra områdena som jag tänkt ha på hemsidan. Jag skriver dom s
     </div>
 
     <div id="sidebar">
-    <div>
+    </div>
 
     <div id="footer">
     </div>
@@ -126,7 +126,7 @@ Content och sidebar tänker jag mig ska ligga bredvid varandra, det fixar vi med
         </div>
 
         <div id="sidebar">
-        <div>
+        </div>
 
       </div>
 
@@ -191,7 +191,7 @@ Allt ska centreras inom ett 960px brett område hade jag tänkt. Vi lägger där
         </div>
 
         <div id="sidebar">
-        <div>
+        </div>
 
       </div>
 
