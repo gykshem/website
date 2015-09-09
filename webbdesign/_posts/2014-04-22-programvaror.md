@@ -31,7 +31,7 @@ Med en texteditor kan man skriva och redigera textfiler. Du har antagligen redan
 <div class="note box">
 <h3>WYSIWYG-editor</h3>
 <p>Om du går en utbildning i webbdesign får du säkert lära dig om WYSIWYG-editorer.  
-Det är ett program (Dreamviewer tex.) där man kan göra hemsidan genom en enklare form av redigeringsverktyg.</p>
+Det är ett program (Dreamweaver tex.) där man kan göra hemsidan genom en enklare form av redigeringsverktyg.</p>
 <p>Du kommer inte att behöva den här typen av programvara.</p>
 </div>
 
